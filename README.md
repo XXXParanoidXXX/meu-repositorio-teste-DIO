@@ -2,3 +2,6 @@
 
 X = 'Hello World'
 print(X)
+
+Y = 1 - 1
+print(Y)
